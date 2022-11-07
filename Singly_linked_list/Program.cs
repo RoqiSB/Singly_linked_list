@@ -119,7 +119,7 @@ namespace single_linked_list
                     Console.WriteLine("3. View all the records in the list");
                     Console.WriteLine("4. Search for a record in the list");
                     Console.WriteLine("5. EXIT");
-                    Console.WriteLine("\nEnter your choice (1-5");
+                    Console.WriteLine("\nEnter your choice (1-5)");
                     char ch = Convert.ToChar(Console.ReadLine());
                     switch(ch)
                     {
